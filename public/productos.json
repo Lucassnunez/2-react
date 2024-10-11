@@ -1,0 +1,83 @@
+[
+    { 
+        "id": 1,
+       "nombre": "Remera blanca",
+       "img": "/assets/img/remera-blanca.jpg",
+       "precio": 9000,
+       "stock": 9,
+       "talle": "M-XXL",
+       "categoria": "Remeras"
+   },
+   {
+       "id": 2,
+       "nombre": "Remera negra",
+       "img":"/assets/img/remera-negra.jpg",
+       "precio": 9000,
+       "stock": 12,
+       "talle": "S-XL",
+       "categoria": "Remeras"
+   },
+   {
+       "id": 3,
+       "nombre": "Remera azul",
+       "img":"/assets/img/remera-azul.jpg",
+       "precio": 9000,
+       "stock": 18,
+       "talle": "S-XXL",
+       "categoria": "Remeras"
+   },
+   {
+       "id": 4,
+       "nombre": "Buzo blanco",
+       "img":"/assets/img/buzo-blanco.jpg",
+       "precio": 12000,
+       "stock": 9,
+       "talle": "S-L",
+       "categoria": "Buzos"
+   },
+   {
+       "id": 5,
+       "nombre": "Buzo negro",
+       "img":"/assets/img/buzo-negro.jpg",
+       "precio": 12000,
+       "stock": 12,
+       "talle": "M-XL",
+       "categoria": "Buzos"
+   },
+   {
+       "id": 6,
+       "nombre": "Buzo azul",
+       "img":"/assets/img/buzo-azul.jpg",
+       "precio": 12000,
+       "stock": 18,
+       "talle": "S-XL",
+       "categoria": "Buzos"
+   },
+   {
+       "id": 7,
+       "nombre": "Pantalon blanco",
+       "img":"/assets/img/pantalon-blanco.jpg",
+       "precio": 18000,
+       "stock": 9,
+       "talle": "38-46",
+       "categoria": "Pantalones"
+   },
+   {
+       "id": 8,
+       "nombre": "Pantalon negro",
+       "img":"/assets/img/pantalon-negro.jpg",
+       "precio": 18000,
+       "stock": 12,
+       "talle": "40-48",
+       "categoria": "Pantalones"
+   },
+   {
+       "id": 9,
+       "nombre": "Pantalon beige",
+       "img":"/assets/img/pantalon-beige.jpg",
+       "precio": 18000,
+       "stock": 18,
+       "talle": "38-50",
+       "categoria": "Pantalones"
+   }
+   ]
