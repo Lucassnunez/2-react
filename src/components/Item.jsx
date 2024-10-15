@@ -7,6 +7,7 @@ const Item = ({ producto }) => {
             <div key={producto.id} className="tarjetas-container">
                 <h2>{producto.nombre}</h2>
                 <img className="catalogo" src={producto.img} alt="{producto.img}" />
+                <link to={'/producto/${producto.id}'}></link>
             </div>
         </Link>
     )
