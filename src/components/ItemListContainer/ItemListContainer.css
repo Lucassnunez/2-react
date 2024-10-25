@@ -5,3 +5,12 @@
     letter-spacing: 1px;
     color: rgb(78, 122, 159);
 }
+
+.tarjetas-container {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+

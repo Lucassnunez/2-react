@@ -14,8 +14,8 @@ const NavBar = () => {
       <Navbar bg="dark" data-bs-theme="dark">
       <img className="logo" src="./assets/img/imagen-logo.png" alt="" />
         <Container>
-          <NavLink to={'/'}>Inicio</NavLink>
-          <Nav className="me-auto">
+        <Navbar.Brand href={'/'}>Inicio</Navbar.Brand>
+          <Nav className="Nv">
             <NavLink to={'categoria/Remeras'}>Remeras</NavLink>
             <NavLink to={'categoria/Buzos'}>Buzos</NavLink>
             <NavLink to={'categoria/Pantalones'}>Pantalones</NavLink>

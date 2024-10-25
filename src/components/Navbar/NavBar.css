@@ -1,6 +1,12 @@
 .logo {
     height: 8rem;
 }
-a {
-    text-decoration: none;
+
+.Nv {
+    color: white;
+    margin-right: 45rem;
+    display: flex;
+    gap: 20px;  
+    font-weight: bold;
+
 }
